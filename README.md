@@ -4,8 +4,10 @@
 
 ## Presentation
 
- <img src="img/presentation1.png" width = "300"  alt="presentation in calendar" align=center />
- <img src="img/presentation2.png" width = "300"  alt="presentation in widget" align=center />
+<img src="img/presentation1.png" width = "300"  alt="presentation in calendar" align=center />
+<img src="img/presentation2.png" width = "300"  alt="presentation in widget" align=center />
+
+默认设定在课程开始前30分钟发出提醒。
 
 ## Example
 
@@ -17,7 +19,7 @@
 
 ## Download
 
-由于快捷指令中，没有函数的概念，智能利用多个快捷指令的调用保证逻辑清晰。
+由于快捷指令中，没有函数的概念，只能利用多个快捷指令的调用保证逻辑清晰。
 需要将下面四个快捷指令均安装，才能正常运行。
 
 [删除日程](https://www.icloud.com/shortcuts/9388b9a1387f483a94a2510c22919581)  
