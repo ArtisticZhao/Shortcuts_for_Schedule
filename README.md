@@ -7,7 +7,7 @@
 <img src="img/presentation1.png" width = "300"  alt="presentation in calendar" align=center />
 <img src="img/presentation2.png" width = "300"  alt="presentation in widget" align=center />
 
-默认设定在课程开始前30分钟发出提醒。
+默认设定在课程开始前**30分钟**发出提醒。
 
 ## Example
 
@@ -40,6 +40,10 @@
 - 一节课持续时间：单位分钟。这个用来确定下课时间的。
 - 日历名称：会在你的日历App中建立该名称的日历，可以在日历App中选择日程是否生效。
 - 上课时间：点开则有如右侧的菜单编辑，需要更改上课对应的时间。
+
+### 设置日历
+
+**在上面的日历名称设置好之后，必须到iOS的日历应用中创建一个名字一模一样的日历，否则添加的课程将不会出现在日历中。**
 
 ### 添加一门课
 
